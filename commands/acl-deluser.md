@@ -5,6 +5,7 @@ is authenticated with. The list of users may include usernames that do not
 exist, in such case no operation is performed for the non existing users.
 
 ## Examples
+Hi 
 
 ```
 127.0.0.1:6379> ACL DELUSER antirez
